@@ -7,7 +7,7 @@ Fichiers :
 - [formatage](formatage)
 - [libc.2-34.so](libc.2-34.so)
 
-Auteurs : XeR et [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : XeR et [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [formatage](https://hackropole.fr/fr/challenges/pwn/fcsc2022-pwn-formatage/)
 
